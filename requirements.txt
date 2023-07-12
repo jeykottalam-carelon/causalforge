@@ -11,3 +11,5 @@ Cython
 tqdm
 docutils
 requests
+tensorflow==2.10.1
+torch==2.0.1
